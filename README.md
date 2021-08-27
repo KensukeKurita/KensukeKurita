@@ -2,7 +2,7 @@
 
 ## Publications
 1. Systematic first-prinicples study of the on-site spin-orbit couling in crystals\
-Kensuke Kurita, Takashi Koretsune\
+<u>Kensuke Kurita</u>, Takashi Koretsune\
 [Phys. Rev. B 102, 045109(2020)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.045109)
 
 ## Public repositories
