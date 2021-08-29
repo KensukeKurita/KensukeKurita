@@ -2,7 +2,7 @@
 
 ## Publications
 1. Systematic first-prinicples study of the on-site spin-orbit couling in crystals\
-<u>Kensuke Kurita</u>, Takashi Koretsune\
+**Kensuke Kurita**, Takashi Koretsune\
 [Phys. Rev. B 102, 045109(2020)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.045109)
 
 ## Public repositories
@@ -14,12 +14,12 @@
 - Online TA Viewer for  Cumpus Life Support Center at Tohoku Univ.
 
 ## Tech stack
-Programming languages
+Programming languages\
 Python, Fortran, 
 
-Frameworks
+Frameworks\
 Vue, flask
 
-Cloud
+Cloud\
 Google Cloud Platform
 
