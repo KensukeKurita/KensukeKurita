@@ -6,7 +6,7 @@
 [Phys. Rev. B 102, 045109(2020)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.045109)
 
 ## Public repositories
-- vim syntax for wannier90
+- [Vim syntax for wannier90](https://github.com/KensukeKurita/wannier90vim)
 - developments/wannier90 is marged
 - Study for Atcoder
 
