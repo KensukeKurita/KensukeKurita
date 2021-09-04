@@ -7,8 +7,8 @@
 
 ## Public repositories
 - [Vim syntax for wannier90](https://github.com/KensukeKurita/wannier90vim)
-- developments/wannier90 is marged
-- Study for Atcoder
+- A part of developments/wannier90 is parallelized. [Wannier90](https://github.com/wannier-developers/wannier90)
+- [Study for Atcoder](https://github.com/KensukeKurita/atcoder)
 
 ## Products
 - Online TA Viewer for  Cumpus Life Support Center at Tohoku Univ.
