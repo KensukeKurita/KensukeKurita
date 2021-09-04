@@ -20,14 +20,15 @@ Press Releases :
 
 ## Tech stack
 ### Programming languages
-<img src="https://www.python.org/static/community_logos/python-powered-h-140x182.png" width=16 />Python
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width=16 />Python
 Fortran, 
 
 ### Frameworks
-Vue, flask
+<img src="https://vuejs.org/images/logo.svg" width=16 />Vue
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" width=16 />flask
 
 ### Cloud
-Google Cloud Platform
+<img src="https://logos-world.net/wp-content/uploads/2021/02/Google-Cloud-Emblem-700x394.png" width=16/>Google Cloud Platform
 
 ### Editor
 <img src="https://raw.githubusercontent.com/konpa/devicon/master/icons/vim/vim-plain.svg" width=16 /> Vim
