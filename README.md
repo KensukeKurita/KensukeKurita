@@ -6,7 +6,7 @@
 [Phys. Rev. B 102, 045109(2020)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.045109)
 2. Soon.
 
-## Press Rerese
+## Press Releases
 1. Tohoku
 
 ## Public repositories
