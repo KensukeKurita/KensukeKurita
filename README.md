@@ -4,10 +4,11 @@
 1. Systematic first-prinicples study of the on-site spin-orbit couling in crystals\
 **Kensuke Kurita**, Takashi Koretsune\
 [Phys. Rev. B 102, 045109(2020)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.045109)
-2. Soon.
+2. Soon.\
+Press Releases :
 
-## Press Releases
-1. Tohoku
+## Presentations
+1. 
 
 ## Public repositories
 - [Vim syntax for wannier90](https://github.com/KensukeKurita/wannier90vim)
