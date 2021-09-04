@@ -19,13 +19,13 @@ Press Releases :
 - Online TA Status Viewer for Cumpus Life Support Center at Dept. of Sci., Tohoku Univ.
 
 ## Tech stack
-Programming languages\
+### Programming languages
 Python, Fortran, 
 
-Frameworks\
+### Frameworks
 Vue, flask
 
-Cloud\
+### Cloud
 Google Cloud Platform
 
 ### Editor
