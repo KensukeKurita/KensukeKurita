@@ -20,12 +20,15 @@ Press Releases :
 
 ## Tech stack
 Programming languages\
-Python![image](https://user-images.githubusercontent.com/33048775/132099871-268519e1-7f29-499b-a69f-e240672dd421.png)
-, Fortran, 
+Python, Fortran, 
 
 Frameworks\
 Vue, flask
 
 Cloud\
 Google Cloud Platform
+
+### Editor
+<img src="https://raw.githubusercontent.com/konpa/devicon/master/icons/vim/vim-plain.svg" width=16 /> Vim
+<img src="https://www.autumn-color.com/wp-content/uploads/2018/04/vscode.png" width=16 /> Visual Studio Code
 
