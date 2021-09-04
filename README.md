@@ -20,7 +20,8 @@ Press Releases :
 
 ## Tech stack
 Programming languages\
-Python, Fortran, 
+Python![image](https://user-images.githubusercontent.com/33048775/132099871-268519e1-7f29-499b-a69f-e240672dd421.png)
+, Fortran, 
 
 Frameworks\
 Vue, flask
