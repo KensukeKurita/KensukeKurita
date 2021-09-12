@@ -22,7 +22,7 @@ Poster
 - [Study for Atcoder](https://github.com/KensukeKurita/atcoder)
 
 ## Products
-- Online TA Status Viewer for Cumpus Life Support Center at Dept. of Sci., Tohoku Univ.
+- [Online TA Status Viewer for Cumpus Life Support Center at Dept. of Sci., Tohoku Univ.](https://sci-tohoku.com)
 
 ## Tech stack
 ### Programming languages
