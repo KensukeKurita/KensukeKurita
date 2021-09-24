@@ -4,8 +4,10 @@
 1. Systematic first-prinicples study of the on-site spin-orbit couling in crystals\
 **Kensuke Kurita**, Takashi Koretsune\
 [Phys. Rev. B 102, 045109(2020)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.045109)
-2. Soon.\
-Press Releases :
+2. X-ray study of ferroic octupole order producing anomalous Hall effect\
+Kimata, M., Sasabe, N., **Kurita, K**. et al.
+[Nat. Commun. 12, 5582 (2021)](https://www.nature.com/articles/s41467-021-25834-7)
+Press Releases : [Tohoku Univ.](https://www.tohoku.ac.jp/japanese/2021/09/press20210922-02-octupole.html)
 
 ## Presentations
 Oral
