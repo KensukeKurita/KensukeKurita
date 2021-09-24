@@ -30,7 +30,7 @@ Poster
 ## Tech stack
 ### Programming languages
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width=16 />Python
-Fortran, 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Fortran_logo.svg/1280px-Fortran_logo.svg.png" width=16 />Fortran, 
 
 ### Frameworks
 <img src="https://vuejs.org/images/logo.svg" width=16 />Vue
