@@ -19,13 +19,14 @@ Poster
 2. 日本物理学会第７４回年次大会(福岡)
 3. APS march Meeting 2020(Dever, USA) 中止
 
+## Products & Other Activity
+- [Online TA Status Viewer for Cumpus Life Support Center at Dept. of Sci., Tohoku Univ.](https://sci-tohoku.com)
+- NASA international Space Apps Challenge 2021
+
 ## Public repositories
 - [Vim syntax for wannier90](https://github.com/KensukeKurita/wannier90vim)
 - A part of developments/wannier90 is parallelized. [Wannier90](https://github.com/wannier-developers/wannier90)
 - [Study for Atcoder](https://github.com/KensukeKurita/atcoder)
-
-## Products
-- [Online TA Status Viewer for Cumpus Life Support Center at Dept. of Sci., Tohoku Univ.](https://sci-tohoku.com)
 
 ## Tech stack
 ### Programming languages
