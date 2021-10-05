@@ -21,7 +21,7 @@ Poster
 
 ## Products & Other Activity
 - [Online TA Status Viewer for Cumpus Life Support Center at Dept. of Sci., Tohoku Univ.](https://sci-tohoku.com)
-- NASA international Space Apps Challenge 2021
+- [NASA international Space Apps Challenge 2021](https://2021.spaceappschallenge.org/challenges/statements/identifying-risk-with-science-communities/teams/kawauchi-space-club/project)
 
 ## Public repositories
 - [Vim syntax for wannier90](https://github.com/KensukeKurita/wannier90vim)
