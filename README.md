@@ -40,6 +40,9 @@ Poster
 ### Cloud
 <img src="https://logos-world.net/wp-content/uploads/2021/02/Google-Cloud-Emblem-700x394.png" width=16/>Google Cloud Platform
 
+### Algorithm
+AtCoder Rating 191
+
 ### Editor
 <img src="https://www.jetbrains.com/idea/img/idea-edu.svg" width=16/> IntelliJ IDEA
 <img src="https://raw.githubusercontent.com/konpa/devicon/master/icons/vim/vim-plain.svg" width=16 /> Vim
