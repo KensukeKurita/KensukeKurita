@@ -41,7 +41,7 @@ Poster
 <img src="https://logos-world.net/wp-content/uploads/2021/02/Google-Cloud-Emblem-700x394.png" width=16/>Google Cloud Platform
 
 ### Algorithm
-AtCoder Rating 191
+<img src="https://img.atcoder.jp/assets/top/img/logo_bk.svg" width=16/>AtCoder Rating 191
 
 ### Editor
 <img src="https://www.jetbrains.com/idea/img/idea-edu.svg" width=16/> IntelliJ IDEA
