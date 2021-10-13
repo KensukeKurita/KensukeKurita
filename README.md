@@ -27,6 +27,7 @@ Poster
 - [Vim syntax for wannier90](https://github.com/KensukeKurita/wannier90vim)
 - A part of developments/wannier90 is parallelized. [Wannier90](https://github.com/wannier-developers/wannier90)
 - [Study for Atcoder](https://github.com/KensukeKurita/atcoder)
+- [NASA space Apps](https://github.com/KensukeKurita/LandslidesAlertChatbot)
 
 ## Tech stack
 ### Programming languages
