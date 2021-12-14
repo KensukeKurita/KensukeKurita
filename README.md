@@ -19,6 +19,10 @@ Poster
 2. 日本物理学会第７４回年次大会(福岡)
 3. APS march Meeting 2020(Dever, USA) 中止
 
+## Internship
+1. LightBlue Technology(1day)
+2. Univ. of Tokyo (3 month)
+
 ## Products & Other Activity
 - [Online TA Status Viewer for Cumpus Life Support Center at Dept. of Sci., Tohoku Univ.](https://sci-tohoku.com)
 - [NASA international Space Apps Challenge 2021](https://2021.spaceappschallenge.org/challenges/statements/identifying-risk-with-science-communities/teams/kawauchi-space-club/project)
