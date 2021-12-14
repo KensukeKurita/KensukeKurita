@@ -20,8 +20,7 @@ Poster
 3. APS march Meeting 2020(Dever, USA) 中止
 
 ## Internship
-1. 画像解析系ベンチャー企業 (1 day)
-2. 東京大学物性研究所 (3 month)
+
 
 ## Products & Other Activity
 - [Online TA Status Viewer for Cumpus Life Support Center at Dept. of Sci., Tohoku Univ.](https://sci-tohoku.com)
