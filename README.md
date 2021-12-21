@@ -20,7 +20,10 @@ Poster
 3. APS march Meeting 2020(Dever, USA) 中止
 
 ## Internship
-
+1. [研究インターンシップ](https://www.pasums.issp.u-tokyo.ac.jp/teams/#member) at 東京大学物性研究所\
+    2021.11〜2022.02(3ヶ月) 
+2. 1day インターンシップ at LB \
+    2021.12.21(1day)　
 
 ## Products & Other Activity
 - [Online TA Status Viewer for Cumpus Life Support Center at Dept. of Sci., Tohoku Univ.](https://sci-tohoku.com)
