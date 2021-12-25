@@ -24,6 +24,8 @@ Poster
     2021.11〜2022.02(3ヶ月) 
 2. 1day インターンシップ at LB \
     2021.12.21(1day)　
+3. [博報堂 DATA SCIENCE CAMP](https://hakusuku.jp/recruit/internship/hakuhododatasciencecampwinter/)\
+    2022.01(3day)
 
 ## Products & Other Activity
 - [Online TA Status Viewer for Cumpus Life Support Center at Dept. of Sci., Tohoku Univ.](https://sci-tohoku.com)
