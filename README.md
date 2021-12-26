@@ -57,3 +57,5 @@ Poster
 <img src="https://raw.githubusercontent.com/konpa/devicon/master/icons/vim/vim-plain.svg" width=16 /> Vim
 <img src="https://www.autumn-color.com/wp-content/uploads/2018/04/vscode.png" width=16 /> Visual Studio Code
 
+## PR
+- https://github.com/wannier-developers/wannier90/pull/370
