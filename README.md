@@ -31,6 +31,10 @@ Poster
 - [Online TA Status Viewer for Cumpus Life Support Center at Dept. of Sci., Tohoku Univ.](https://sci-tohoku.com)
 - [NASA international Space Apps Challenge 2021](https://2021.spaceappschallenge.org/challenges/statements/identifying-risk-with-science-communities/teams/kawauchi-space-club/project)
 
+## Certification
+1. TOEIC score=725
+2. iTEP Level=3.5, CEFR_B2
+
 ## Public repositories
 - [Vim syntax for wannier90](https://github.com/KensukeKurita/wannier90vim)
 - A part of developments/wannier90 is parallelized. [Wannier90](https://github.com/wannier-developers/wannier90)
