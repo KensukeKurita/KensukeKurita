@@ -32,6 +32,7 @@ Poster
 - [NASA international Space Apps Challenge 2021](https://2021.spaceappschallenge.org/challenges/statements/identifying-risk-with-science-communities/teams/kawauchi-space-club/project)
 
 ## Certification
+1. 統計検定 データサイエンス発展
 1. TOEIC score=725
 2. iTEP Level=3.5, CEFR_B2
 
