@@ -19,14 +19,6 @@ Poster
 2. 日本物理学会第７４回年次大会(福岡)
 3. APS march Meeting 2020(Dever, USA) 中止
 
-## Internship
-1. [研究インターンシップ](https://www.pasums.issp.u-tokyo.ac.jp/teams/#member) at 東京大学物性研究所\
-    2021.11〜2022.02(3ヶ月) 
-2. 1day インターンシップ at Lightblue Techonology \
-    2021.12.21(1day)　
-3. [博報堂 DATA SCIENCE CAMP](https://hakusuku.jp/recruit/internship/hakuhododatasciencecampwinter/)\
-    2022.01.11 - 01.31
-
 ## Products & Other Activity
 - [Online TA Status Viewer for Cumpus Life Support Center at Dept. of Sci., Tohoku Univ.](https://sci-tohoku.com)
 - [NASA international Space Apps Challenge 2021](https://2021.spaceappschallenge.org/challenges/statements/identifying-risk-with-science-communities/teams/kawauchi-space-club/project)
