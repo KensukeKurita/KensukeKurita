@@ -11,8 +11,8 @@ Press Releases : [放射光でついに見えた磁気オクタポール 〜熱�
 3. Interface tool from Wannier90 to RESPACK: wan2respack\
 **Kensuke Kurita**, et. al.\
 [Comp. Phys. Commun. 292, 108854 (2023)](https://doi.org/10.1016/j.cpc.2023.108854)
-4. X-ray Magnetic Circular Dichroism Arising from the Magnetic Dipole Moment in Antiferromagnets¥
-**Kensuke Kurita**, Takashi Koretsune\
+4. X-ray Magnetic Circular Dichroism Arising from the Magnetic Dipole Moment in Antiferromagnets  
+**Kensuke Kurita**, Takashi Koretsune
 
 
 <!-- ## Presentations -->
