@@ -1,6 +1,13 @@
 # Kensuke Kurita
 
-## Publications
+## JOB EXPERIENCE
+
+## EDUCATION
+- Tohoku University, Faculty of Science — B.Sc. in Science (2018)
+- Tohoku University, Graduate School of Science — M.Sc. in Science (2020)
+- Tohoku University, Graduate School of Science — Ph.D. in Science (2023)
+
+## PUBLICATION
 1. Systematic first-prinicples study of the on-site spin-orbit coupling in crystals\
 **Kensuke Kurita**, Takashi Koretsune\
 [Phys. Rev. B 102, 045109(2020)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.045109)
@@ -12,8 +19,11 @@ Press Releases : [放射光でついに見えた磁気オクタポール 〜熱�
 **Kensuke Kurita**, et. al.\
 [Comp. Phys. Commun. 292, 108854 (2023)](https://doi.org/10.1016/j.cpc.2023.108854)
 4. X-ray Magnetic Circular Dichroism Arising from the Magnetic Dipole Moment in Antiferromagnets  
-**Kensuke Kurita**, Takashi Koretsune
+**Kensuke Kurita**, Takashi Koretsune\
+[J. Phys. Soc. Jpn. 93, 024705 (2024)](https://journals.jps.jp/doi/10.7566/JPSJ.93.024705)
 
+## CERTIFICATIONS
+- Applied Information Technology Engineer Examination (IPA, Japan) — 2025
 
 <!-- ## Presentations -->
 <!-- Oral
